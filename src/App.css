@@ -1,0 +1,9 @@
+.App {
+  width: 60%;
+  margin: auto;
+}
+
+.App-title{
+  text-align: center;
+  color: grey;
+}
